@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "bookkeeping-reconciliations",
+    "title": "Bookkeeping & reconciliations",
+    "summary": "I can help you get your records up to date, match them to the bank and work through anything that does not look right.",
+    "outputs": [
+      "Updated sales and purchase ledgers with supporting-document references",
+      "Bank, credit-card and control-account reconciliation schedules",
+      "A query log for missing records, unmatched entries and proposed corrections"
+    ],
+    "scope": "We’ll agree which business and period to cover, the software to use and how much work the records need. Any proposed corrections and open questions will go to your practice’s reviewer.",
+    "sample": "bank-reconciliation",
+    "need": [
+      "The business and period you need help with, plus the software you use.",
+      "Bank and card statements, bookkeeping exports and relevant invoices, shared through an agreed secure route after we agree the work.",
+      "A short note about any backlog, missing records or balances you are worried about."
+    ],
+    "steps": [
+      [
+        "First, we agree what needs doing",
+        "We talk through the period, number of accounts and condition of the records. I confirm what I will work on, what you will receive and who will review any changes."
+      ],
+      [
+        "I check the starting point",
+        "I compare the opening balances with the previous records and check that the statements and bookkeeping exports cover the same dates. If something is missing, I ask for it before going further."
+      ],
+      [
+        "I work through the transactions",
+        "I match receipts and payments to the ledger and supporting records. I look into duplicates, missing entries and items posted to the wrong place. I keep a note of anything I need you to explain."
+      ],
+      [
+        "I explain the differences",
+        "I separate genuine timing differences from errors. Any proposed correction has a reason and a source reference. I do not add an unexplained adjustment just to make the totals agree."
+      ],
+      [
+        "I hand over the reconciliation",
+        "You receive the reconciliation, the proposed corrections and a short list of open questions. Items needing approval go to your reviewer, and anything still awaiting evidence stays clearly marked."
+      ]
+    ],
+    "pricing": "The quote depends on how many bank or card accounts are involved, transaction volume, the number of months and how much investigation is needed. A tidy month of records and a historic backlog will need different amounts of work."
+  },
+  {
+    "slug": "accounts-working-papers",
+    "title": "Accounts preparation & working papers",
+    "summary": "I can organise the schedules and supporting records your reviewer needs for month-end or year-end accounts.",
+    "outputs": [
+      "Accrual and prepayment schedules with a stated basis",
+      "Selected balance-sheet reconciliations and proposed journals",
+      "Close checklist, supporting references and unresolved reviewer queries"
+    ],
+    "scope": "We’ll agree the reporting period, the records available and the schedules you need. I’ll prepare the draft work for your practice to review and approve.",
+    "sample": "month-end-pack",
+    "need": [
+      "The reporting period, deadline and the schedules your practice needs.",
+      "The trial balance, previous working papers and relevant supporting records, shared securely once scope is agreed.",
+      "Details of any missing invoices, uncertain balances or adjustments already under discussion."
+    ],
+    "steps": [
+      [
+        "We agree the pack you need",
+        "I ask which balances and schedules you want covered, who will review the file and when it is needed. This keeps a selected working-paper pack separate from a complete accounts engagement."
+      ],
+      [
+        "I check the records fit together",
+        "I compare the trial balance with the ledgers and supporting schedules. I note missing records, unusual balances and questions that could hold up the close."
+      ],
+      [
+        "I prepare the schedules",
+        "I work through the agreed balances, including relevant accruals, prepayments and reconciliations. I show the calculation, the period it relates to and the record it came from."
+      ],
+      [
+        "I document proposed changes",
+        "I set out proposed journals and explain why they are needed. Estimates and assumptions are labelled, so your reviewer can see where confirmation is still required."
+      ],
+      [
+        "I prepare the handover",
+        "I send the agreed schedules, references, close checklist and open queries. The reviewer can see what has been checked and what still needs a decision before sign-off."
+      ]
+    ],
+    "pricing": "The quote depends on the number of schedules, the condition of the trial balance, the amount of missing information and the deadline. We agree whether you need selected schedules or a wider preparation pack."
+  },
+  {
+    "slug": "vat-cis-preparation",
+    "title": "VAT & CIS preparation support",
+    "summary": "I can help your practice prepare VAT and CIS records, check the supporting balances and flag questions for review.",
+    "outputs": [
+      "Organised records supporting VAT and CIS preparation",
+      "Balance reconciliations and checks on deductions and supporting records",
+      "A list of missing information and items requiring reviewer confirmation"
+    ],
+    "scope": "We’ll agree the period, software, records and review process first. My work here is preparation support; we’ll confirm who is authorised to approve and submit it.",
+    "sample": null,
+    "need": [
+      "The period, software and preparation work your practice needs help with.",
+      "Relevant bookkeeping records, invoices and subcontractor payment records through an agreed secure route.",
+      "Your practice’s instructions, reviewer details and confirmation of who is responsible for submission."
+    ],
+    "steps": [
+      [
+        "We agree the preparation and review roles",
+        "Before I start, we confirm the period, records to use, checks required and who will review and submit the work. The scope is preparation support within your practice’s processes."
+      ],
+      [
+        "I check that the records are there",
+        "I check the dates and look for missing invoices, payment details or other gaps. I list questions early so there is time to resolve them."
+      ],
+      [
+        "I prepare the supporting checks",
+        "I reconcile the relevant balances and check the supporting entries and deductions against your practice’s instructions. I flag anything unusual instead of guessing at its treatment."
+      ],
+      [
+        "I separate questions from completed work",
+        "I record missing evidence, uncertain entries and items that need a reviewer’s decision. Your practice can see which checks are complete and what is still open."
+      ],
+      [
+        "I hand the preparation to your reviewer",
+        "I provide the supporting records and query list for review. Corrections and approval follow your practice’s process; submission responsibility remains with the agreed authorised person."
+      ]
+    ],
+    "pricing": "The quote depends on whether the work covers VAT, CIS or both, the period, record volume, missing information and the checks your practice requires. I explain the preparation scope before you agree to a fee."
+  },
+  {
+    "slug": "construction-reporting",
+    "title": "Management reporting & construction costs",
+    "summary": "I can help you see where project costs have moved, what that means for the margin and which questions need attention.",
+    "outputs": [
+      "Project cost schedules and budget-versus-actual comparisons",
+      "Profitability reports with stated assumptions and variance commentary",
+      "Management questions, including a clear distinction between profit and cash"
+    ],
+    "scope": "We’ll agree the projects, reporting dates and costs to include. I’ll explain the assumptions and flag incomplete records so management can review the report properly.",
+    "sample": "construction-profitability",
+    "need": [
+      "The project or reporting period you want to review and the questions you need answered.",
+      "The budget, actual costs, project income and relevant supporting records, shared securely after scope is agreed.",
+      "Your cost categories and any known late invoices, outstanding income or costs that have not yet been allocated."
+    ],
+    "steps": [
+      [
+        "We decide what the report needs to answer",
+        "We agree the project, reporting dates and cost categories. I ask whether you need a completed-project report, a budget comparison or a regular management update."
+      ],
+      [
+        "I organise the project records",
+        "I bring together the budget, actual costs and project income. I check that the records cover the same period and flag costs or income that may be missing or assigned to the wrong project."
+      ],
+      [
+        "I compare budget with actual costs",
+        "I work through materials, labour, subcontractors, plant hire and maintenance where relevant. I show each difference and look for a supporting explanation."
+      ],
+      [
+        "I explain the margin and the cash position",
+        "I show how the project result is calculated and state what is included. If cash information is in scope, I separate amounts earned or incurred from money received or paid."
+      ],
+      [
+        "I turn the findings into useful questions",
+        "You receive the report, plain-language commentary and a short list of points for management. Assumptions, incomplete records and questions about late costs are visible."
+      ]
+    ],
+    "pricing": "The quote depends on the number of projects, reporting periods, cost categories and how much work is needed to organise the inputs. We also agree whether this is a one-off report or recurring support."
+  }
+]

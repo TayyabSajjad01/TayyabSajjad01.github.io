@@ -1,0 +1,60 @@
+{
+  "name": "Tayyab Sajjad",
+  "email": "tayyabsajjad018@gmail.com",
+  "phone": "+92 309 5616862",
+  "linkedin": "https://www.linkedin.com/in/tayyab-sajjad-736636313/",
+  "location": "Islamabad, Pakistan",
+  "timezone": "Pakistan Standard Time · UTC+5",
+  "bookingUrl": null,
+  "siteUrl": "https://tayyabsajjad01.github.io",
+  "headline": "UK accounting experience. Clear working papers. Practical support.",
+  "intro": "An accountant with UK practice experience in bookkeeping, reconciliations, accounts preparation and management reporting — including construction-related businesses.",
+  "roles": [
+    {
+      "employer": "ISA Consortium UK Ltd",
+      "title": "Accountant",
+      "dates": "July 2025–Present",
+      "summary": "UK client accounting, preparation and construction reporting.",
+      "bullets": [
+        "Maintain bookkeeping in Xero, QuickBooks Online and Sage; reconcile bank, credit-card and control-account balances.",
+        "Prepare VAT and CIS returns with supporting checks on records, deductions and balances ahead of submission.",
+        "Track construction project costs, maintenance expenditure and budget movements; prepare profitability and management reports.",
+        "Prepare financial reports, creditors analyses, payroll records and journals; reconcile PAYE and VAT balances with client and HMRC records.",
+        "Prepare Self Assessment and Corporation Tax supporting records and computations within the firm’s review processes.",
+        "Communicate directly with UK clients to resolve queries and obtain information for accounting and tax deadlines."
+      ]
+    },
+    {
+      "employer": "Vision Consulting Accountants Ltd",
+      "title": "Junior Bookkeeper",
+      "dates": "October 2024–June 2025",
+      "summary": "Daily bookkeeping and VAT preparation for an employer’s portfolio of 10 clients.",
+      "bullets": [
+        "Recorded transactions, maintained ledgers, reconciled bank accounts and organised supporting documents for a portfolio of 10 clients during this employment.",
+        "Prepared VAT returns and checked VAT boxes and tax rates before filing; escalated missing or unmatched records for resolution.",
+        "Explained errors in client records, the corrections required and the effect of those changes."
+      ]
+    },
+    {
+      "employer": "SWC Ltd",
+      "title": "Accounts & Tax Trainee",
+      "dates": "May–September 2024",
+      "summary": "Bookkeeping and tax working-paper support under senior review.",
+      "bullets": [
+        "Supported bookkeeping, transaction posting, reconciliations and tax-related working papers under senior review."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institute of Cost & Management Accountants of Pakistan",
+      "dates": "2023–Present",
+      "qualification": "CMA qualification — part-qualified"
+    },
+    {
+      "institution": "The Hope College of Science & Commerce",
+      "dates": "2020–2022",
+      "qualification": "FSc Pre-Engineering"
+    }
+  ]
+}

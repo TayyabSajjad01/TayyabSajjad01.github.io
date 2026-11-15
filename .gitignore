@@ -1,0 +1,9 @@
+node_modules/
+dist/
+private/
+.preview/
+*.log
+.env*
+!.env.example
+docs/
+.release/
