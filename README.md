@@ -21,6 +21,7 @@ Open http://127.0.0.1:4173. `npm run build` generates the static website in `dis
 - Homepage layout: `content/home.mjs`.
 - Fictional work samples: `content/samples.mjs`.
 - CV: replace `assets/Tayyab-Sajjad-CV.pdf`, retaining the filename.
+- Portrait: replace the 320px and 640px square JPEGs named `assets/tayyab-sajjad-portrait-320.jpg` and `assets/tayyab-sajjad-portrait-640.jpg`. The homepage applies the circular frame; retain natural headroom and keep the face centred. Use only an owner-approved real portrait.
 - Articles: add reviewed writing to `content/articles.json`. Only entries with status `published` and an actual `reviewedOn` date appear. Never claim author review until it has occurred.
 - Appearance: `assets/styles.css`.
 
