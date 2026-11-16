@@ -6,7 +6,7 @@ import {createContactApi} from './contact-api.mjs';
 if(fs.existsSync('.env.local'))process.loadEnvFile('.env.local');
 const contactApi=createContactApi();
 const root = path.resolve('dist');
-const mime = {'.html':'text/html; charset=utf-8','.css':'text/css','.js':'text/javascript','.pdf':'application/pdf','.svg':'image/svg+xml','.csv':'text/csv; charset=utf-8','.png':'image/png'};
+const mime = {'.html':'text/html; charset=utf-8','.css':'text/css','.js':'text/javascript','.pdf':'application/pdf','.svg':'image/svg+xml','.csv':'text/csv; charset=utf-8','.png':'image/png','.jpg':'image/jpeg','.jpeg':'image/jpeg'};
 const server = http.createServer(async(req,res)=>{
   if(await contactApi(req,res))return;
   let url;
