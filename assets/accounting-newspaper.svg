@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="340" viewBox="0 0 400 340">
+  <defs>
+    <pattern id="print" width="137" height="34" patternUnits="userSpaceOnUse">
+      <path d="M0 3h125M0 9h129M0 15h118M0 21h127M0 27h99" fill="none" stroke="#9b8173" stroke-width="1.3" opacity=".52"/>
+    </pattern>
+    <linearGradient id="crease"><stop stop-color="#c7a995" stop-opacity="0"/><stop offset=".48" stop-color="#c7a995" stop-opacity=".2"/><stop offset=".5" stop-color="#fff8ed" stop-opacity=".7"/><stop offset="1" stop-color="#fff8ed" stop-opacity="0"/></linearGradient>
+  </defs>
+  <path d="M34 30 365 19 377 308 46 322Z" fill="#dfc9b8"/>
+  <path d="M24 18h320l30 31v248l-31 25H24Z" fill="#efd9c8" stroke="#d8bfaa"/>
+  <text x="188" y="43" text-anchor="middle" font-family="Georgia,serif" font-size="7" letter-spacing="2" fill="#806b5c">WORKING PAPERS · REPORTING · PRACTICE</text>
+  <text x="188" y="67" text-anchor="middle" font-family="Georgia,serif" font-weight="bold" font-size="20" fill="#69594d">The Accounting Review</text>
+  <path d="M41 77h315M41 81h315" stroke="#a18b78" stroke-width=".8"/>
+  <text x="42" y="107" font-family="Georgia,serif" font-size="16" fill="#776354">Clear records.</text>
+  <text x="206" y="107" font-family="Georgia,serif" font-size="16" fill="#776354">Useful reporting.</text>
+  <path d="M195 95v208" stroke="#bda38e" stroke-width=".7"/>
+  <path d="M42 120h137v173H42ZM206 120h137v173H206Z" fill="url(#print)"/>
+  <path d="M41 305h286" stroke="#b49a85" stroke-width=".7"/>
+  <path d="M184 18h24v304h-24Z" fill="url(#crease)"/>
+  <path d="m344 18 30 31h-30Z" fill="#fbecde" stroke="#d8bfaa" stroke-linejoin="round"/>
+  <path d="m343 322 31-25h-31Z" fill="#fbecde" stroke="#d8bfaa" stroke-linejoin="round"/>
+</svg>
